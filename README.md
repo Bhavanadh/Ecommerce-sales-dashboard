@@ -67,8 +67,5 @@ These visualizations help identify sales patterns, growth areas, and customer be
 
 # Author
 [Bhavanadh](https://github.com/Bhavanadh)  
-
-
-# License
-This project is open-source and available under the MIT License.  
+ 
 
