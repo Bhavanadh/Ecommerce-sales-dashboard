@@ -19,7 +19,7 @@ Delivered clear business reports with visual storytelling.
  -seaborn
  -Power BI
  -Jupyter Notebook (.ipynb)
- - Excel  
+ -Excel  
 
 # Key Features
  Cleans and preprocesses the e-commerce sales dataset  
