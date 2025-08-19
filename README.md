@@ -26,10 +26,10 @@ Delivered clear business reports with visual storytelling.
  Converts order dates to datetime format  
  Aggregates and groups sales data by month  
  Visualizes:
- *Monthly sales trends  
- *Top products by revenue  
- *Customer segmentation insights  
-- Power BI dashboard for KPIs, growth metrics, and product performance
+ -Monthly sales trends  
+ -Top products by revenue  
+ -Customer segmentation insights  
+ -Power BI dashboard for KPIs, growth metrics, and product performance
 # Dataset Used
 We use a simplified e-commerce sales dataset.
 Example columns include:  
@@ -54,17 +54,16 @@ This dataset is uploaded manually to Colab or imported into Power BI during runt
    Interact with visualizations
 
 # Sample Visualizations
- Monthly Sales Trend (line chart)  
- Top 5 Products by Revenue (bar chart)  
- Customer Segmentation (Power BI visual)  
-
+ -Monthly Sales Trend (line chart)  
+ -Top 5 Products by Revenue (bar chart)  
+ -Customer Segmentation (Power BI visual)  
 These visualizations help identify sales patterns, growth areas, and customer behavior.
 
 # Future Improvements
- Add profit trend analysis 
- Region-wise and segment-wise breakdown  
- Build an interactive dashboard (e.g., Plotly, Dash, or Streamlit)  
- Automate data refresh for Power BI
+ -Add profit trend analysis 
+ -Region-wise and segment-wise breakdown  
+ -Build an interactive dashboard (e.g., Plotly, Dash, or Streamlit)  
+ -Automate data refresh for Power BI
 
 # Author
 [Bhavanadh](https://github.com/Bhavanadh)  
