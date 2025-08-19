@@ -13,13 +13,13 @@ Identified growth opportunities leading to a 15% sales boost.
 Delivered clear business reports with visual storytelling.  
  
 # Tools & Libraries
- -Python 3 (Google Colab / Jupyter environment)
- -pandas
- -matplotlib
- -seaborn
- -Power BI
- -Jupyter Notebook (.ipynb)
- -Excel  
+  Python 3 (Google Colab / Jupyter environment)
+ |pandas|
+  |matplotlib|
+ |seaborn|
+ |Power BI|
+ |Jupyter Notebook (.ipynb)|
+ |Excel|  
 
 # Key Features
  Cleans and preprocesses the e-commerce sales dataset  
