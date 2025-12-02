@@ -45,7 +45,7 @@ This dataset is uploaded manually to Colab or imported into Power BI during runt
 # How to Run This Project
 1. Python / Jupyter Notebook  
     Open the notebook (`notebooks/trend_analysis.ipynb`) in Jupyter or Colab  
-    Upload the `sales_data.csv` file manually (via sidebar in Colab or local path in Jupyter)  
+    Upload the `ecommerce_sales_data.csv` file manually (via sidebar in Colab or local path in Jupyter)  
     Run all cells to see analysis and charts  
 
 2. Power BI Dashboard  
